@@ -13,5 +13,7 @@ export function taskNext() {
 
   return combination;
 }
+/**
 const myConstant = taskFirst();
 let myLet = taskNext();
+**/
