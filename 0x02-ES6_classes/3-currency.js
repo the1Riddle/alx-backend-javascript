@@ -1,4 +1,3 @@
-/** `Currency` class implementation **/
 export default class Currency {
   constructor(code, name) {
     this._code = code;

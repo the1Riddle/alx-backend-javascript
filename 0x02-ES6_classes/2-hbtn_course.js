@@ -1,4 +1,3 @@
-/** some comments **/
 export default class HolbertonCourse {
   constructor(name, length, students) {
     /* name validation */
