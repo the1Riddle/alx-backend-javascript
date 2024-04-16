@@ -1,6 +1,5 @@
 import Building from './5-building';
 
-/** `SkyHighBuilding` class implementation **/
 export default class SkyHighBuilding extends Building {
   constructor(sqft, floors) {
     super(sqft);

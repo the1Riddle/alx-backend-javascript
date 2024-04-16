@@ -1,4 +1,3 @@
-/** `Building` "abstract" class implementation **/
 export default class Building {
   constructor(sqft) {
     this._sqft = sqft;
