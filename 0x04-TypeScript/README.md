@@ -52,8 +52,8 @@ $ npm install
 ## Run
 
 ```bash
-$ npx tsc <file.ts>
-$ npx tsc <file.ts> --target ES6 --module commonjs
+$ tsc <file.ts>
+$ tsc <file.ts> --target ES6 --module commonjs
 $ npx tsc <file.ts> --target ES6 --module commonjs --outDir <directory>
 ```
 
