@@ -1,0 +1,8 @@
+{
+  "author": "the1Riddle",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  }
+}
+
